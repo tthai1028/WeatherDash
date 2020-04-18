@@ -6,7 +6,7 @@ in local storage and added to a list uner the search bar, where the user can cli
 
 ## Usage
 
-There is no installation required! All you need to do is go to . After you go to that page, the entire application will be available to you!
+There is no installation required! All you need to do is go to https://tthai1028.github.io/WeatherDash/ . After you go to that page, the entire application will be available to you!
 
 ## Built With
 
